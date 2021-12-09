@@ -70,3 +70,81 @@ Jogos Olímpicos de 2020.
 Pense em alguma situação cotidiana ou da natureza em que pode ser representada por um Loop.
 
 Descreva essa situação em comentário e Crie este loop.
+
+Jogos Olímpicos de 2020.
+
+
+---
+
+### 🔵 Exercício 11
+
+Crie um Array com o nome de 10 alunos da sua turma do curso DFS
+
+### 🔵 Exercício 12
+
+- Crie um Array com os seus 5 filmes favoritos.
+- Adicione o seu filme favorito a uma variável chamada `filmeFavorito`
+- Exiba o nome do seu filme favorito no console.
+- Substitua um dos seus filmes favoritos no array.
+- Adicione um sexto filme no seu array, usando o metodo push.
+- Remova o sexto filme do seu array, usando o método pop.
+
+### 🔵 Exercício 13
+
+Dado o Array:
+
+```jsx
+const carrinho = ["tenis", 349, "jaqueta", 199, "camiseta", 79, "calça", 99]
+```
+
+Crie um Loop que exiba no console uma mensagem que exiba o item e o seu preço em cada uma das linhas.
+
+Exemplo de resultado:
+
+```
+O preço do item tenis é: 349
+O preço do item jaqueta é: 199
+O preço do item camiseta é: 79
+O preço do item calça é: 99
+```
+
+### 🔵 Exercício 14
+
+Considerando o Array do Exercício anterior, exiba no console uma mensagem com o valor total dos itens que estão no carrinho.
+
+### 🔵 Exercício 15
+
+Considerando o Array do carrinnho de compras, altere o valor dos itens:
+
+- Jaqueta para 159
+- Calça para 89
+
+### 🔵 Exercício 16
+
+Considerando o mesmo Array do carrinho de compras, adicione o elemento `"frete"` e o valor `19.90` ao final deste Array
+
+### 🔵 Exercício 17
+
+Considerando o mesmo Array do Carrinho de compras, crie uma lógica condicional que desconsidere o frete caso o valor total da compra seja maior que `500`
+
+---
+
+### 🔵 Exercício 18
+
+Dado os parâmetros de temperatura x estado da água:
+
+- Sólido - Menor que 0 ºC
+- Líquido - Entre 0 e 100 ºC
+- Gasoso - Maior que 100 ºC
+
+Crie uma estrutura de decisão que exiba uma mensagem para o estado da água em diferentes temperaturas. Teste com as temperaturas:
+
+- `- 7`
+- `90`
+- `130`
+
+### 🔵 Exercício 19
+
+Faça a lógica do exercício anterior funcionar tanto com ºC (Graus Celsius), quando com ºF (Graus Fahrenheit)
+
+**Obs:** Use fontes de pesquisa (exemplo: Google) para a fórmula de conversão Celsius x Fahrenheit
