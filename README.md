@@ -16,23 +16,23 @@ Altere os valores das características do veículo, e exiba a mesma mensagem de 
 
 ---
 
-### 🔵 Exercício 4
+### 🔵 Exercício 3
 
 Crie um loop que conte de 0 até 1000 no console do navegador.
 
-### 🔵 Exercício 5
+### 🔵 Exercício 4
 
 Crie um Loop que conte de 0 até 5000 e exiba no console o quadrado de cada número.
 
-### 🔵 Exercício 6
+### 🔵 Exercício 5
 
 Crie um Loop faça uma contagem decrescente de 2000 até 1 e exiba o valor da contagem no console.
 
-### 🔵 Exercício 7
+### 🔵 Exercício 6
 
 Crie um Loop que conte de 999 até 9999 e exiba o valor da contagem no console.
 
-### 🔵 Exercício 8
+### 🔵 Exercício 7
 
 Crie um loop que exiba a mensagem "Bom Dia!", durante todos os dias de um mês de 30 dias.
 
@@ -47,7 +47,7 @@ Dia 2: Bom dia!
 Dia 30: Bom dia!
 ```
 
-### 🔵 Exercício 9
+### 🔵 Exercício 8
 
 Crie um loop que exiba no console todos os anos de todas as edições dos jogos olímpicos da era moderna, que começaram em 1896 e teve a sua última edição 2020. Para facilitar, considere também as edições que foram canceladas.
 
@@ -65,7 +65,7 @@ Jogos Olímpicos de 1904.
 Jogos Olímpicos de 2020.
 ```
 
-### 🔵 Exercício 10
+### 🔵 Exercício 9
 
 Pense em alguma situação cotidiana ou da natureza em que pode ser representada por um Loop.
 
@@ -76,11 +76,11 @@ Jogos Olímpicos de 2020.
 
 ---
 
-### 🔵 Exercício 11
+### 🔵 Exercício 10
 
 Crie um Array com o nome de 10 alunos da sua turma do curso DFS
 
-### 🔵 Exercício 12
+### 🔵 Exercício 11
 
 - Crie um Array com os seus 5 filmes favoritos.
 - Adicione o seu filme favorito a uma variável chamada `filmeFavorito`
@@ -89,7 +89,7 @@ Crie um Array com o nome de 10 alunos da sua turma do curso DFS
 - Adicione um sexto filme no seu array, usando o metodo push.
 - Remova o sexto filme do seu array, usando o método pop.
 
-### 🔵 Exercício 13
+### 🔵 Exercício 12
 
 Dado o Array:
 
@@ -108,28 +108,28 @@ O preço do item camiseta é: 79
 O preço do item calça é: 99
 ```
 
-### 🔵 Exercício 14
+### 🔵 Exercício 13
 
 Considerando o Array do Exercício anterior, exiba no console uma mensagem com o valor total dos itens que estão no carrinho.
 
-### 🔵 Exercício 15
+### 🔵 Exercício 14
 
 Considerando o Array do carrinnho de compras, altere o valor dos itens:
 
 - Jaqueta para 159
 - Calça para 89
 
-### 🔵 Exercício 16
+### 🔵 Exercício 15
 
 Considerando o mesmo Array do carrinho de compras, adicione o elemento `"frete"` e o valor `19.90` ao final deste Array
 
-### 🔵 Exercício 17
+### 🔵 Exercício 16
 
 Considerando o mesmo Array do Carrinho de compras, crie uma lógica condicional que desconsidere o frete caso o valor total da compra seja maior que `500`
 
 ---
 
-### 🔵 Exercício 18
+### 🔵 Exercício 17
 
 Dado os parâmetros de temperatura x estado da água:
 
@@ -143,7 +143,7 @@ Crie uma estrutura de decisão que exiba uma mensagem para o estado da água em 
 - `90`
 - `130`
 
-### 🔵 Exercício 19
+### 🔵 Exercício 18
 
 Faça a lógica do exercício anterior funcionar tanto com ºC (Graus Celsius), quando com ºF (Graus Fahrenheit)
 
